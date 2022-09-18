@@ -8,6 +8,8 @@
 - CSS grid
 - CSS psudo elements
 ***
+***[Preview Deployed Link](https://product-designer-project15.netlify.app/)***
+***
 ### This project took me around **8 Hours** to complete
 ***
 
